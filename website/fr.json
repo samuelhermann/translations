@@ -24,7 +24,7 @@
 	"use_cases_section_use_case_2_title": "ETFs (Token Baskets)",
 	"use_cases_section_use_case_2_description": "Token baskets are smart tokens that hold multiple standard ERC20 tokens in their reserve, enabling holding a portfolio of tokens by holding a single smart token.<br><br>When the calculated reserve prices drift from market prices in external exchanges, arbitrageurs are incentivized to restore economic equilibrium, keeping prices in sync with the outside world.",
 	"use_cases_section_use_case_3_title": "Project and Protocol Tokens",
-	"use_cases_section_use_case_3_description": "The crowdfunding space has been growing rapidly. Smart tokens can be used for crypto-crowdfunding initiatives, where participants receive tokens which are liquid and automatically market-priced.",
+	"use_cases_section_use_case_3_description": "Les financements crowdfunding ont augmenté rapidement. Les jetons intelligents peuvent être utilisés pour les initiatives de crypto-crowdfunding, où les participants reçoivent des jetons qui disposent automatiquement d’une valeur marchande sur les marchés. "
 	"use_cases_section_use_case_4_title": "Des devises communautaire",
 	"use_cases_section_use_case_4_description": "Les jetons intelligents permettent à quiconque d'émettre de nouvelles monnaies liquides pour leur groupe. Il existe de nombreux exemples de devises générées par les utilisateurs, telles que les monnaies issus de communauté, des points de fidélité, du troc B2B et plus récemment, les jetons utilisable sur les blockchains. Tous ces cas d'utilisation peuvent bénéficier d'une liquidité et d'une découverte de prix asynchrone avec le protocole Bancor ".
 	"smart_contracts_section_title": "Bancor Smart Contracts",
