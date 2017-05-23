@@ -51,7 +51,7 @@
 	"contact_us_page_description": "Nous attendons avec impatience vos avis, questions et des suggestions. N'hésitez pas à nous contacter pour toutes questions en remplissant le formulaire de contact ou sur les réseaux sociaux.",
 	"contact_form_success_msg_title": "Merci!",
 	"contact_form_success_msg": "Merci pour l’intérêt que vous portez pour le protocole de Bancor. Votre message a été reçu et nous vous répondrons dès que possible.",
-	"smart_contracts_section_token_creation_note": "Les jetons contrôlent leur propre liquidité et leur valeur en utilisant le jeton de réserve qu'ils détiennent avec leurs contrat intelligent."
+	"smart_contracts_section_token_creation_note": "Les jetons contrôlent leur propre liquidité et leur valeur en utilisant le jeton de réserve qu'ils détiennent avec leurs contrat intelligent.",
 	"smart_contracts_section_token_convertion_note": "Échangez n’importe quel jetons pour un autre dans le réseau, automatiquement avec une tarification  algorithmique.",
 	"site_tagline": "Bancor Protocol is a standard for a new generation of cryptocurrencies called Smart Tokens",
 	"site_tagline_html": "Bancor Protocol is a <span class='text-highlight'>standard</span> for a new generation of cryptocurrencies called <span class='text-highlight'>Smart Tokens</span>",
