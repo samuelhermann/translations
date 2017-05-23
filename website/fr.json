@@ -22,13 +22,13 @@
 	"use_cases_section_use_case_1_title": "Bureau de changes de jetons",
 	"use_cases_section_use_case_1_description": "Token changers are smart tokens that can be used to exchange between other standard ERC20 tokens that are held in their reserve.<br><br>When the calculated exchange prices drift from market prices in external exchanges, arbitrageurs are incentivized to restore economic equilibrium, keeping prices in sync with the outside world.",
 	"use_cases_section_use_case_2_title": "ETFs (Token Baskets)",
-	"use_cases_section_use_case_2_description": "Token baskets are smart tokens that hold multiple standard ERC20 tokens in their reserve, enabling holding a portfolio of tokens by holding a single smart token.<br><br>When the calculated reserve prices drift from market prices in external exchanges, arbitrageurs are incentivized to restore economic equilibrium, keeping prices in sync with the outside world.",
-	"use_cases_section_use_case_3_title": "Project and Protocol Tokens",
+	"use_cases_section_use_case_2_description": "Quand les prix calculés de la réserve diffèrent des prix des échanges externes, les arbitrages interviennent afin de rétablir l'équilibre et maintenir les prix en synchro avec les places de marché ".
+	"use_cases_section_use_case_3_title": "Place d'échange autonome",
 	"use_cases_section_use_case_3_description": "Les financements crowdfunding ont augmenté rapidement. Les jetons intelligents peuvent être utilisés pour les initiatives de crypto-crowdfunding, où les participants reçoivent des jetons qui disposent automatiquement d’une valeur marchande sur les marchés. ",
 	"use_cases_section_use_case_4_title": "Des devises communautaire",
 	"use_cases_section_use_case_4_description": "Les jetons intelligents permettent à quiconque d'émettre de nouvelles monnaies liquides pour leur groupe. Il existe de nombreux exemples de devises générées par les utilisateurs, telles que les monnaies issus de communauté, des points de fidélité, du troc B2B et plus récemment, les jetons utilisable sur les blockchains. Tous ces cas d'utilisation peuvent bénéficier d'une liquidité et d'une découverte de prix asynchrone avec le protocole Bancor.",
-	"smart_contracts_section_title": "Bancor Smart Contracts",
-	"smart_contracts_section_description": "Bancor smart tokens are implemented using smart contracts, initially deployed on the Ethereum network. <br><br>Smart tokens are compatible with ERC20 and EIP228. The protocol will evolve to include additional standards to allow more flexibility, cross-blockchain compatibility and increased security for smart tokens.",
+	"smart_contracts_section_title": "Les Smart Contracts Bancor",
+	"smart_contracts_section_description": "Les jetons intelligents Bancor sont implémentés à l'aide de contrats intelligents, initialement déployés sur le réseau Ethereum. <br> <br> Les jetons intelligents sont compatibles avec les standards ERC20 et EIP228. Le protocole sera évolutif, il permettra d'inclure des nouvelles normes permettant une plus grande flexibilité, une compatibilité entre les blockchains et d'améliorer la sécuriter des jetons intelligents. »
 	"bancor_token_section_feature_1_title": "Une liquidité permanente",
 	"bancor_token_section_feature_1_description": "Des jetons intelligents peuvent être achetés ou vendus par quelqu'un n'importe quand, grâce à leur leur contrat intelligent.",
 	"bancor_token_section_feature_2_title": "Rétrocompatible",
