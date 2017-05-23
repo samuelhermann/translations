@@ -16,7 +16,7 @@
 	"Meet Us": "Rencontrez nous",
 	"invalid email": "email invalide",
 	"about_section_title": "C'est quoi le protocole Bancor?",
-	"about_section_description": "Le protocole Bancor permet une découverte de prix intégrée et un mécanisme de liquidité pour les jetons intelligent sur la blockchain. Ces «jetons intelligents» contiennent une ou plusieurs autres jetons en réserve et permettent à n’importe quel parties d'acheter ou de vendre instantanément le jeton intelligent en échange de l'un de ses jetons de réserve, de manière transparente grâce à un contrat de jeton intelligent, à un prix calculé en permanence, selon une formule qui équilibre les volumes d'achat et de vente. "
+	"about_section_description": "Le protocole Bancor permet une découverte de prix intégrée et un mécanisme de liquidité pour les jetons intelligent sur la blockchain. Ces «jetons intelligents» contiennent une ou plusieurs autres jetons en réserve et permettent à n’importe quel parties d'acheter ou de vendre instantanément le jeton intelligent en échange de l'un de ses jetons de réserve, de manière transparente grâce à un contrat de jeton intelligent, à un prix calculé en permanence, selon une formule qui équilibre les volumes d'achat et de vente. ",
 	"use_cases_section_title": "Cas d'utilisation des jetons intelligents",
 	"use_cases_section_description": "Les jetons intelligents permettent la création d’une nouvelle classe d'instruments monétaires, avec des configurations distinctes pour chaque type d’applications. ",
 	"use_cases_section_use_case_1_title": "Bureau de changes de jetons",
